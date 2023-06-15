@@ -19,7 +19,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/kavya-2/Java_app_3.0.git"
+                url: "https://github.com/kavya-2/CI_demo.git"
             )
             }
         }
